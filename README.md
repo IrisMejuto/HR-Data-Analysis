@@ -2,7 +2,7 @@
 This Power BI project, developed for the FP20 Analytics Challenge 15, in which it is an analysis for the Human Resources department of a company, where I analyse the workforce, salaries and location of employees. #PowerBI
 
 <div align="center">
-<img src="" alt="Logo" width="800" height="500">
+<img src="https://github.com/IrisMejuto/HR-Data-Analysis/blob/main/Images/3%20HR%20Data%20Analysis.JPG" alt="Logo" width="800" height="500">
 </div>
 
 ## 📊 Dashboard
