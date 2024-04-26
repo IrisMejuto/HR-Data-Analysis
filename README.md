@@ -13,7 +13,7 @@ You can access the dashboard made in Power BI at the following link 👉🏼📊
 
 In this project, conducted with Power BI for FP20 Analytics April 2024 Challenge. I focus on preparing and cleaning up the data, and share tips for working with large data sets in Power BI.
 
-Utilizing Power BI's robust capabilities, I embarked on cleaning, modeling, exploring, and visualizing the comprehensive dataset to unearth critical insights.
+Utilizing Power BI's robust capabilities, I embarked on cleaning, modeling, exploring, and visualizing the comprehensive dataset to discover critical insights.
 
 
 ## 🗃️ Dataset:
