@@ -25,8 +25,8 @@ The dataset is made up of 1 file, you can download it in Spanish and English:
 ## 🖇️ Model:
 
 The data modeling stage involved creating a relational data model that reflects the relationships between .
-The data modeling stage involved the creation of a relational data model that reflects the relationships between
-![image](![image](https://github.com/IrisMejuto/HR-Data-Analysis/blob/main/Images/Model%20HR%20.png)
+The data modeling stage involved the creation of a relational data model that reflects the relationships between Employees, Departaments, Business Unit, Job Title, Ethnicity and Location,
+[image](https://github.com/IrisMejuto/HR-Data-Analysis/blob/main/Images/Model%20HR%20.png)
 
 
 
