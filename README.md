@@ -18,7 +18,9 @@ Utilizing Power BI's robust capabilities, I embarked on cleaning, modeling, expl
 
 ## 🗃️ Dataset:
 
-* [The Movie TMDB]()
+The dataset is made up of 1 file, you can download it in Spanish and English:
+
+* [Files](https://github.com/IrisMejuto/HR-Data-Analysis/tree/main/Datasets)
 
 ## 🖇️ Model:
 
