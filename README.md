@@ -6,7 +6,7 @@ This Power BI project, developed for the FP20 Analytics Challenge 15, in which i
 </div>
 
 ## 📊 Dashboard
-You can access the dashboard made in Power BI at the following link 👉🏼📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzljM2E2ZWQtMDcyOS00Y2ViLTkyOGMtOWQ0YjE5ZTg3ZGIyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+You can access the dashboard made in Power BI at the following link 👉🏼📊 [Dashboard](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/2ae6c97e45c6045700bff14f12883ef5?challenge=fp20-analytics-april-2024)
 
 
 ## 🪟 Overview:
